@@ -1,9 +1,9 @@
 import React from "react";
 
-const Home = ({}) => {
+const Home = () => {
   return (
     <div>
-      <h1>Go crazyyy!!!</h1>
+      <h1>Bello!</h1>
     </div>
   );
 };
